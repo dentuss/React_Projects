@@ -1,0 +1,9 @@
+.club-container {
+
+    width: 20%;
+    height: 40vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
